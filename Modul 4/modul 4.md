@@ -1,6 +1,6 @@
 # KomputasiMultimedia
 
-## Tugas Modul 3 Matkul Komputasi Multimedia
+## Tugas Modul 4 Matkul Komputasi Multimedia
 
 Nama : Mohammad Ferry Julyo
 
